@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "ضع_توكن_البوت_هنا"
+TOKEN = "7365551738:AAFh4oF9RVOfiLFpAIlG9xebYL1ILzTTe9c"
 SHORT_LINK = "ضع_رابط_الاختصار_هنا"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
